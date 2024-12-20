@@ -1,0 +1,11 @@
+mrcfile
+numpy
+pandas
+POT
+scipy
+matplotlib
+seaborn
+numba
+unbalancedgw
+Bio
+shapely
